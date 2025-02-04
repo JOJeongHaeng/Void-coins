@@ -44,4 +44,4 @@
 
 - https://www.youtube.com/watch?v=B3okDPOPgc0&list=PLC2Tit6NyVie46nbdEM00wFoojjRlXIcf&index=3
 
-- ![image](https://github.com/user-attachments/assets/533b22dd-a51b-4600-a004-e0764f7fa2e3)
+- https://github.com/user-attachments/assets/533b22dd-a51b-4600-a004-e0764f7fa2e3
